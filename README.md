@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
+<!-- <br>
 <script src="https://gist.github.com/Renz7/581f0e36efe80e5d610a102e7f9b4b49.js"></script>
+</br> -->
