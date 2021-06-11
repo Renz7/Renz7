@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: ...
-  - 📬:[renz_7@outlook.com](renz_7@outlook.com)
-  - 🕸️:[https://renz7.github.io/](https://renz7.github.io/)
+- 📫
+  - 📬 [renz_7@outlook.com](renz_7@outlook.com)
+  - 🕸️ [https://renz7.github.io/](https://renz7.github.io/)
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-
+<script src="https://gist.github.com/Renz7/581f0e36efe80e5d610a102e7f9b4b49.js"></script>
