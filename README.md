@@ -1,1 +1,1 @@
-All for cola free.
+For cola free.
